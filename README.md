@@ -1,1 +1,1 @@
-# web3wizard-smart-contracts
+# protocol-smart-contracts
